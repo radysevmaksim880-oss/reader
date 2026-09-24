@@ -1,0 +1,46 @@
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/obj/local/armeabi-v7a/objs-debug/SDL2/src/render/software/SDL_blendfillrect.o: \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/SDL_blendfillrect.c \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/../../SDL_internal.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/../../dynapi/SDL_dynapi.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_config.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_platform.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/begin_code.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/close_code.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_config_android.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_assert.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_stdinc.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_log.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/SDL_draw.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/../../video/SDL_blit.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/../../video/../SDL_internal.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_cpuinfo.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_endian.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_surface.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_pixels.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_rect.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_error.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_rwops.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_blendmode.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/SDL_blendfillrect.h
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/../../SDL_internal.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/../../dynapi/SDL_dynapi.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_config.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_platform.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/begin_code.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/close_code.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_config_android.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_assert.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_stdinc.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_log.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/SDL_draw.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/../../video/SDL_blit.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/../../video/../SDL_internal.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_cpuinfo.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_endian.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_surface.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_pixels.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_rect.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_error.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_rwops.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_blendmode.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/render/software/SDL_blendfillrect.h:

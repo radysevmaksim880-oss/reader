@@ -1,0 +1,350 @@
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/obj/local/arm64-v8a/objs-debug/main/start.o: \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/start.c \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/Python.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/patchlevel.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyconfig.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pymacconfig.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyport.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/exports.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pymacro.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pymath.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pymem.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pymem.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pytypedefs.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pybuffer.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pystats.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyatomic.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyatomic.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyatomic_gcc.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/lock.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/lock.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/critical_section.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/critical_section.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/object.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/object.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/refcount.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/objimpl.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/objimpl.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/typeslots.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyhash.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyhash.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pydebug.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/bytearrayobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/bytearrayobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/bytesobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/bytesobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/unicodeobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/unicodeobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyerrors.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyerrors.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/longobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/longobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/longintrepr.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/boolobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/floatobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/floatobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/complexobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/complexobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/rangeobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/memoryobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/memoryobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/tupleobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/tupleobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/listobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/listobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/dictobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/dictobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/odictobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/enumobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/setobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/setobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/methodobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/methodobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/moduleobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/monitoring.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/monitoring.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/funcobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/classobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/fileobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/fileobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pycapsule.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/code.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyframe.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyframe.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/traceback.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/traceback.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/sliceobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/cellobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/iterobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/initconfig.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pystate.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pystate.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/genobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/descrobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/descrobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/genericaliasobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/warnings.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/warnings.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/weakrefobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/weakrefobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/structseq.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/picklebufobject.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pytime.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/codecs.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pythread.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pythread.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/context.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/modsupport.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/modsupport.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/compile.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/compile.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pythonrun.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pythonrun.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pylifecycle.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pylifecycle.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/ceval.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/ceval.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/sysmodule.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/audit.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/audit.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/osmodule.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/intrcheck.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/import.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/import.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/abstract.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/abstract.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/bltinmodule.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyctype.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pystrtod.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pystrcmp.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/fileutils.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/fileutils.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyfpe.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/tracemalloc.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/bootstrap_name.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_main.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_stdinc.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_config.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_platform.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/begin_code.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/close_code.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_config_android.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_assert.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_atomic.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_audio.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_error.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_endian.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_mutex.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_thread.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_rwops.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_clipboard.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_cpuinfo.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_events.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_video.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_pixels.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_rect.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_surface.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_blendmode.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_keyboard.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_keycode.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_scancode.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_mouse.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_joystick.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_guid.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_gamecontroller.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_sensor.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_quit.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_gesture.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_touch.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_filesystem.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_haptic.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_hidapi.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_hints.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_loadso.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_log.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_messagebox.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_metal.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_power.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_render.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_shape.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_system.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_timer.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_version.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_locale.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_misc.h \
+  /home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_opengles2.h
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/Python.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/patchlevel.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyconfig.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pymacconfig.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyport.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/exports.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pymacro.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pymath.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pymem.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pymem.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pytypedefs.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pybuffer.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pystats.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyatomic.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyatomic.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyatomic_gcc.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/lock.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/lock.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/critical_section.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/critical_section.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/object.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/object.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/refcount.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/objimpl.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/objimpl.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/typeslots.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyhash.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyhash.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pydebug.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/bytearrayobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/bytearrayobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/bytesobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/bytesobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/unicodeobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/unicodeobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyerrors.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyerrors.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/longobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/longobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/longintrepr.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/boolobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/floatobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/floatobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/complexobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/complexobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/rangeobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/memoryobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/memoryobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/tupleobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/tupleobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/listobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/listobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/dictobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/dictobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/odictobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/enumobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/setobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/setobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/methodobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/methodobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/moduleobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/monitoring.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/monitoring.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/funcobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/classobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/fileobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/fileobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pycapsule.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/code.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pyframe.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyframe.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/traceback.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/traceback.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/sliceobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/cellobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/iterobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/initconfig.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pystate.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pystate.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/genobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/descrobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/descrobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/genericaliasobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/warnings.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/warnings.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/weakrefobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/weakrefobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/structseq.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/picklebufobject.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pytime.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/codecs.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pythread.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pythread.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/context.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/modsupport.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/modsupport.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/compile.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/compile.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pythonrun.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pythonrun.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pylifecycle.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pylifecycle.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/ceval.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/ceval.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/sysmodule.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/audit.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/audit.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/osmodule.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/intrcheck.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/import.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/import.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/abstract.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/abstract.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/bltinmodule.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyctype.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pystrtod.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/pystrcmp.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/fileutils.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/fileutils.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/pyfpe.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_24/python3/android-build/android-root/include/python3.14/cpython/tracemalloc.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/bootstrap_name.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_main.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_stdinc.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_config.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_platform.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/begin_code.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/close_code.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_config_android.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_assert.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_atomic.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_audio.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_error.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_endian.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_mutex.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_thread.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_rwops.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_clipboard.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_cpuinfo.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_events.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_video.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_pixels.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_rect.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_surface.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_blendmode.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_keyboard.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_keycode.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_scancode.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_mouse.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_joystick.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_guid.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_gamecontroller.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_sensor.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_quit.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_gesture.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_touch.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_filesystem.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_haptic.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_hidapi.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_hints.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_loadso.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_log.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_messagebox.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_metal.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_power.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_render.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_shape.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_system.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_timer.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_version.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_locale.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_misc.h:
+/home/usermaksim/projects/MyApp/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/application/src/../../SDL/include/SDL_opengles2.h:
