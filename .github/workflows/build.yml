@@ -1,8 +1,10 @@
-name: Build APK
+name: Build Android APK
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -20,22 +22,23 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -y \
-            git zip unzip openjdk-17-jdk python3-pip autoconf libtool pkg-config \
-            zlib1g-dev libncurses5-dev libncursesw5-dev libreadline-dev libsqlite3-dev \
-            libssl-dev libffi-dev liblzma-dev libbz2-dev
+          git zip unzip openjdk-17-jdk python3-pip autoconf libtool pkg-config \
+          zlib1g-dev libncurses5-dev libreadline-dev libsqlite3-dev \
+          libssl-dev libffi-dev liblzma-dev libbz2-dev
 
     - name: Install Buildozer and Cython
       run: |
         pip install --upgrade pip
         pip install cython==0.29.36 buildozer
 
+    - name: Clean old build cache
+      run: buildozer -v android clean
+
     - name: Build with Buildozer
-      run: |
-        buildozer -v android clean
-        buildozer -v android debug
+      run: buildozer -v android debug
 
     - name: Upload APK
       uses: actions/upload-artifact@v4
       with:
-        name: package
+        name: app-debug
         path: bin/*.apk
