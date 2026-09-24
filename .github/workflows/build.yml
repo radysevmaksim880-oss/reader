@@ -13,6 +13,8 @@ jobs:
 
     - name: Build with official Buildozer Docker image
       uses: docker://kivy/buildozer:latest
+      env:
+        BUILDER_ALLOW_ROOT: "1"
       with:
         args: android debug
 
